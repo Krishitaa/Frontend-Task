@@ -3,5 +3,4 @@ Imagine you're building an attendance system for a class. The entire students in
 
 Login Credentials : 
                     Username= user
-
                     Password=123
