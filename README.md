@@ -2,5 +2,5 @@
 Imagine you're building an attendance system for a class. The entire students in a class will goto this UX, and mark their attendance.
 
 Login Credentials : 
-                    Username= user
-                    Password=123
+                   1) Username= user
+                   2) Password=123
